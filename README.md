@@ -1,2 +1,2 @@
-# Database-C-
+# Database-C++
 Database System in C++
