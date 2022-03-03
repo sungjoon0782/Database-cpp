@@ -1,5 +1,5 @@
 # Database-C++
-Database in C++
+Database simulator in C++
 
 ## main.cpp </br>
 runs the menu and gives the user options to choose between the films or the actors/actresses for each function. It gives you choices and actions to select from. It will implement this for every function .
